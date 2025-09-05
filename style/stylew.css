@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    margin: 0px;
+    font-family:"Roboto", sans-serif;
+}
+
+header {
+    height: 10vh;
+    background-color: rgb(9, 8, 8);
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.ImagemHeader{
+    height: 50px;
+    width: auto;
+}
+
+
+
+nav{
+    display: flex;
+    gap: 35px;
+}
+
+nav ul{
+    display: flex;
+    gap: 45px;
+}
+
+nav a{
+    color: rgb(70, 73, 73);
+    text-decoration: none;
+}
+
+body {
+    background-color: black;
+}
+
+main{
+    height: 70vh;
+}
+
+footer {
+    height: 20vh;
+}
+
+button{
+    display: block;
+    width: 85px;
+    height: auto;
+    border-radius: 10px;
+    background-color: black;
+    border-color: rgb(0, 234, 8);
+    color: rgb(190, 190, 190);
+}
+
+.imagem-mouse{
+    width: 10vw;
+    height: 10vh;
+}
