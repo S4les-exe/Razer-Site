@@ -64,3 +64,26 @@ button{
     width: 10vw;
     height: 10vh;
 }
+
+.descricao-mouse{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.textos{
+    width: 40vw;
+}
+
+.botao-carrinho{
+    
+}
+
+.botao-informacoes{
+
+}
+
+.icones{
+    color: white;
+}
